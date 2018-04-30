@@ -2,7 +2,7 @@
 "Network/Graph Analysis in Python" repository of 3 hours training session held at ODSC East 2018.
 
 
-**Prerequisites:
+**Prerequisites:**
 
 1.	Installation of NetworkX Python library: https://pypi.python.org/pypi/networkx/2.1
 2.	We will use Jupyter Notebooks throughout the session: http://jupyter.org/install
