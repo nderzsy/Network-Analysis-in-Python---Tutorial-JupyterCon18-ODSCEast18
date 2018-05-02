@@ -12,3 +12,4 @@ dependencies:
 - scipy
 - numpy
 - pandas
+- nxviz

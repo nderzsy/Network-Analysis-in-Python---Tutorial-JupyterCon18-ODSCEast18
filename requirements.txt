@@ -5,3 +5,4 @@ networkx
 jupyter
 jupyterlab
 pandas
+nxviz
