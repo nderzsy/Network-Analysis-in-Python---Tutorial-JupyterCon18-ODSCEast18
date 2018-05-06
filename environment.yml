@@ -1,0 +1,15 @@
+name: networkscience
+channels:
+- defaults
+- conda-forge
+- ericmjl
+dependencies:
+- python=3.6
+- jupyter
+- jupyterlab
+- networkx
+- matplotlib
+- scipy
+- numpy
+- pandas
+- nxviz
