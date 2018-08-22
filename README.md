@@ -1,5 +1,5 @@
 # ODSC-East2018
-"Network/Graph Analysis in Python" repository of 3 hours training session held at ODSC East 2018.
+"Network/Graph Analysis in Python" repository of 3 hours training session held at ODSC East 2018 and JupyterCon 2018.
 
 **Abstract**
 
@@ -10,7 +10,8 @@ Networks, also know as graphs, are one of the most crucial data structures in ou
 2.	We will use Jupyter Notebooks throughout the session: http://jupyter.org/install
 3.	A couple of days prior the session the used Jupyter Notebook and data files will be downloadable from this GitHub repository: https://github.com/nderzsy/ODSC-East2018
 
-**Event**
+**Events**
 
 https://odsc.com/training/portfolio/general-training-session-networkgraph-analysis-python
+https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/68283
 
